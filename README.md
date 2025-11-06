@@ -1,4 +1,4 @@
-<img width="940" height="535" alt="image" src="https://github.com/user-attachments/assets/7a76ef21-050d-4bbf-9c8a-0770404d8a4c" /># 🌲 Restore Forest  
+# 🌲 Restore Forest  
 *A 2D Pixel-Art Platformer Adventure built with Unity*
 
 ---
