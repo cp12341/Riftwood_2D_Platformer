@@ -1,4 +1,4 @@
-# 🌲 Restore Forest  
+<img width="940" height="535" alt="image" src="https://github.com/user-attachments/assets/7a76ef21-050d-4bbf-9c8a-0770404d8a4c" /># 🌲 Restore Forest  
 *A 2D Pixel-Art Platformer Adventure built with Unity*
 
 ---
@@ -28,44 +28,50 @@ Your goal is to purify the land, defeat the corrupted guardians, and bring harmo
 |---------|----------|
 | **Main Menu** | ![Main Menu](https://github.com/user-attachments/assets/6e99af02-7e71-4a25-9f19-cba7473f5542) |
 | **Level Options** | ![Level Options](https://github.com/user-attachments/assets/9d0c306e-f65d-4a29-baad-18b48e523810) |
-| **Pause Page** | ![Pause Page](images/ui_pause_page.png) |
-| **Game Over Page** | ![Game Over Page](images/ui_game_over_page.png) |
+| **Pause Page** | ![Pause Page](https://github.com/user-attachments/assets/79aac087-a516-4c7d-84a3-a0e5ff2fe9a8) |
+| **Game Over Page** | ![Game Over Page](https://github.com/user-attachments/assets/f3a5d1c4-c1ca-4c9e-9f09-590376d270da) |
 
-*(Place your screenshots in `images/` or `video/` folder and update filenames accordingly.)*
 
 ---
 
 ## 🌳 Level Previews
 
 ### 🗺️ Level 1 – Enchanted Forest
-![Overview](images/level1_overview.png)
-![Sample 1](images/level1_sample1.png)
-![Sample 2](images/level1_sample2.png)
-![Sample 3](images/level1_sample3.png)
+![Overview](https://github.com/user-attachments/assets/86f12b6e-f959-4d0d-bc9e-bca308af07d1)
+![Sample 1](https://github.com/user-attachments/assets/cafc864c-0fd5-459b-870e-2972359dd606)
+![Sample 2](https://github.com/user-attachments/assets/1f70f18e-2a19-47a0-b6b6-0b2fb106e531)
+![Sample 3](https://github.com/user-attachments/assets/a6d26d1d-ceed-4ddf-b5f4-69f1168abe9b)
+![Sample 4](https://github.com/user-attachments/assets/ff5f2529-3d70-431f-88a6-2fca567bb1d1)
 
 ### 🌌 Level 2 – Dark Woods
-![Overview](images/level2_overview.png)
-![Sample 1](images/level2_sample1.png)
-![Sample 2](images/level2_sample2.png)
-![Sample 3](images/level2_sample3.png)
+![Overview](https://github.com/user-attachments/assets/6da14e63-5d4e-47ad-9eb1-97a66a40ef3a)
+![Sample 1](https://github.com/user-attachments/assets/6a4d923e-cf9d-4829-9cf2-580cf3e52982)
+![Sample 2](https://github.com/user-attachments/assets/acb1dbc8-8f2f-4006-94c1-c28e02d29958)
+![Sample 3](https://github.com/user-attachments/assets/c6312a3e-4c23-4061-8b5e-f5382c49c3f8)
+![Sample 4](https://github.com/user-attachments/assets/7fc3c3b7-06f2-42bb-aa24-d1df8b0c5d52)
 
 ### 🏰 Level 3 – Forgotten Dungeon
-![Overview](images/level3_overview.png)
-![Sample 1](images/level3_sample1.png)
-![Sample 2](images/level3_sample2.png)
-![Sample 3](images/level3_sample3.png)
+![Overview](https://github.com/user-attachments/assets/0a292c37-b254-4abe-9940-9f7395056825)
+![Sample 1](https://github.com/user-attachments/assets/9d0ce3df-330e-4034-a9a8-69d327c40c9e)
+![Sample 2](https://github.com/user-attachments/assets/8ec0e27f-08c7-417a-9354-1d20a89cb446)
+![Sample 3](https://github.com/user-attachments/assets/4546af52-19aa-43ba-bba4-f33c862be14d)
+![Sample 4](https://github.com/user-attachments/assets/bb3637b4-54b6-46b6-8b3e-0a39cf821d5e)
+![Sample 5](https://github.com/user-attachments/assets/033bd3ac-76f0-43f0-b4d7-270231f866b0)
 
 ### 💎 Level 4 – Crystal Caverns
-![Overview](images/level4_overview.png)
-![Sample 1](images/level4_sample1.png)
-![Sample 2](images/level4_sample2.png)
-![Sample 3](images/level4_sample3.png)
+![Overview](https://github.com/user-attachments/assets/a8a2a64d-c2e4-49de-834c-0474e7fae3b3)
+![Sample 1](https://github.com/user-attachments/assets/227d182a-7e37-430b-9ec5-c8e90294c8b1)
+![Sample 2](https://github.com/user-attachments/assets/392f448c-d174-4444-8222-6fbf39ff97fc)
+![Sample 3](https://github.com/user-attachments/assets/f2bd5d9d-6191-45e5-8d46-8991a503c770)
+![Sample 4](https://github.com/user-attachments/assets/e10ddba7-937a-42d4-9c7e-8e5aced71355)
 
 ### 🔥 Level 5 – Cursed Caves
-![Overview](images/level5_overview.png)
-![Sample 1](images/level5_sample1.png)
-![Sample 2](images/level5_sample2.png)
-![Sample 3](images/level5_sample3.png)
+![Overview](https://github.com/user-attachments/assets/525115bb-91ef-4175-8871-886d5519bbfd)
+![Sample 1](https://github.com/user-attachments/assets/548f261d-2bbf-4cae-a60b-fd1565c85cbe)
+![Sample 2](https://github.com/user-attachments/assets/06a86932-d4d9-4e2d-a10b-fc0455069b7e)
+![Sample 3](https://github.com/user-attachments/assets/0246325e-ad36-4066-8d77-9093e8ab8554)
+![Sample 4](https://github.com/user-attachments/assets/d9b42798-72a8-4d0d-a428-c377980d2318)
+![Sample 5](https://github.com/user-attachments/assets/1c0157f1-6515-4c37-8395-43b8bd53244f)
 
 ---
 
@@ -119,32 +125,9 @@ Your goal is to purify the land, defeat the corrupted guardians, and bring harmo
 
 ---
 
-## 📦 How to Play
-
-**Online Version (GitHub/Cloud):**
-1. Download the latest build from the link above.  
-2. Extract the ZIP and open the `Build App` folder.  
-3. Run `RestoreForest.exe`.
-
-**Offline Portfolio Version:**
-1. Open the project folder.  
-2. Run the game from `Build App/`.  
-3. Browse screenshots or previews in the `video/` or `images/` folder.
-
----
-
 ## 👩‍💻 Developer
 
-Created by **Li Yuecheng (OONG CHEN PING)**  
-🎓 Software Engineering Student, Xiamen University Malaysia  
+Created by **cp**  
 🌐 GitHub: [cp12341](https://github.com/cp12341)
-
----
-
-## 🪄 License
-
-This project is for educational and portfolio purposes.  
-All third-party assets remain the property of their respective creators.  
-Please refer to each asset link for individual usage terms.
 
 ---
