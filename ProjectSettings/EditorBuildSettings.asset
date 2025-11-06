@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: d996f6b6170d38d48a58ddb7acbfb826
+  - enabled: 1
+    path: Assets/Scenes/01Grassland.unity
+    guid: d3b0c4e85b1c16c4c9c655ddf929d133
+  - enabled: 1
+    path: Assets/Scenes/02DarkForest.unity
+    guid: d60a747eb6c1e2643a3bfbc91014f217
+  - enabled: 1
+    path: Assets/Scenes/03MushroomLand.unity
+    guid: 4c9b40ac3994e80448df679daed0babb
+  - enabled: 1
+    path: Assets/Scenes/04Cave.unity
+    guid: 1fe9522d817b36147920b7b2ec701579
+  - enabled: 1
+    path: Assets/Scenes/05FinalCave.unity
+    guid: aa3825f17fd43ff41803094bc6c077d5
+  m_configObjects: {}
