@@ -26,11 +26,10 @@ Your goal is to purify the land, defeat the corrupted guardians, and bring harmo
 
 | Screen | Preview |
 |---------|----------|
-| **Main Menu** | ![Main Menu](<img width="940" height="536" alt="image" src="https://github.com/user-attachments/assets/6e99af02-7e71-4a25-9f19-cba7473f5542" />) |
-| **Level Options** | ![Level Options](<img width="940" height="531" alt="image" src="https://github.com/user-attachments/assets/9d0c306e-f65d-4a29-baad-18b48e523810" />) |
+| **Main Menu** | ![Main Menu](https://github.com/user-attachments/assets/6e99af02-7e71-4a25-9f19-cba7473f5542) |
+| **Level Options** | ![Level Options](https://github.com/user-attachments/assets/9d0c306e-f65d-4a29-baad-18b48e523810) |
 | **Pause Page** | ![Pause Page](images/ui_pause_page.png) |
 | **Game Over Page** | ![Game Over Page](images/ui_game_over_page.png) |
-<img width="940" height="531" alt="image" src="https://github.com/user-attachments/assets/702bea26-58e8-4aa3-8dc0-c7f26ee60a49" />
 
 *(Place your screenshots in `images/` or `video/` folder and update filenames accordingly.)*
 
